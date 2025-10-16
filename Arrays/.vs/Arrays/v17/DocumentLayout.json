@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\Development\\C-tutorial\\Arrays\\",
+  "WorkspaceRootPath": "C:\\Development\\Week3\\Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC9ECE07-C445-4A4C-89CF-1752CFCC2267}|Arrays\\Arrays.vcxproj|G:\\Development\\C-tutorial\\Arrays\\Arrays\\Arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CC9ECE07-C445-4A4C-89CF-1752CFCC2267}|Arrays\\Arrays.vcxproj|C:\\Development\\Week3\\Arrays\\Arrays\\Arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CC9ECE07-C445-4A4C-89CF-1752CFCC2267}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\Arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,19 +14,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Arrays.cpp",
-              "DocumentMoniker": "G:\\Development\\C-tutorial\\Arrays\\Arrays\\Arrays.cpp",
+              "DocumentMoniker": "C:\\Development\\Week3\\Arrays\\Arrays\\Arrays.cpp",
               "RelativeDocumentMoniker": "Arrays\\Arrays.cpp",
-              "ToolTip": "G:\\Development\\C-tutorial\\Arrays\\Arrays\\Arrays.cpp",
+              "ToolTip": "C:\\Development\\Week3\\Arrays\\Arrays\\Arrays.cpp",
               "RelativeToolTip": "Arrays\\Arrays.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
