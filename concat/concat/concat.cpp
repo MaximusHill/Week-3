@@ -16,7 +16,6 @@ int main()
 	printf("Your second string was: %s\n", string2);
 	strcat_s(string1, string2);
 	printf("The final string is: %s\n", string1);
-	int dih = strlen(string1);
-	printf("Your final count is :%d",dih);
+	printf("Your final count is :%d", strlen(string1));
 	exit(0);
 }

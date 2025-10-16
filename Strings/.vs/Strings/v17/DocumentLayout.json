@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\Development\\Development\\Strings\\",
+  "WorkspaceRootPath": "C:\\Development\\Week3\\Strings\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C335313-F72E-4A96-A8AD-A49D11BA5F91}|Strings\\Strings.vcxproj|G:\\Development\\Development\\Strings\\Strings\\Strings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8C335313-F72E-4A96-A8AD-A49D11BA5F91}|Strings\\Strings.vcxproj|C:\\Development\\Week3\\Strings\\Strings\\Strings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8C335313-F72E-4A96-A8AD-A49D11BA5F91}|Strings\\Strings.vcxproj|solutionrelative:Strings\\Strings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -28,7 +28,9 @@
               "DocumentIndex": 1,
               "Title": "stdio.h",
               "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
               "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "RelativeToolTip": "..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
               "ViewState": "AgIAAAwFAAAAAAAAAAAwwCoFAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-10-14T09:40:48.542Z"
@@ -37,11 +39,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Strings.cpp",
-              "DocumentMoniker": "G:\\Development\\Development\\Strings\\Strings\\Strings.cpp",
+              "DocumentMoniker": "C:\\Development\\Week3\\Strings\\Strings\\Strings.cpp",
               "RelativeDocumentMoniker": "Strings\\Strings.cpp",
-              "ToolTip": "G:\\Development\\Development\\Strings\\Strings\\Strings.cpp",
+              "ToolTip": "C:\\Development\\Week3\\Strings\\Strings\\Strings.cpp",
               "RelativeToolTip": "Strings\\Strings.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-14T09:37:33.119Z",
               "EditorCaption": ""
