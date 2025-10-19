@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include<iostream>
+
 
 
 int main()
@@ -39,6 +39,24 @@ int main()
 			}
 			count++;
 		}
+		for (int i = 0; i < arraynum - 1; i++)
+		{
+			for (int j = 0; j < arraynum - i - 1; j++)
+			{
+				if (Array[j] < Array[j + 1])
+				{
+					
+					int temp = Array[j];
+					Array[j] = Array[j + 1];
+					Array[j + 1] = temp;
+
+					
+					int temp2 = Array2[j];
+					Array2[j] = Array2[j + 1];
+					Array2[j + 1] = temp2;
+				}
+			}
+		}
 		printf("This is the data stored\n");
 		printf("Year:%d\nName:%s\n",year,name);
 		for (int i = 0; i < count; i++)
@@ -57,11 +75,13 @@ int main()
 			
 			average = average + Array[i];
 		}
-		int PassPer = (Pass / arraynum) * 100;
-		int FailPer = (Fail / arraynum) * 100;
+		float PassPer = ((float)Pass/arraynum) * 100;
+		float FailPer = ((float)Fail / arraynum) * 100;
 		average = average / count;
 		printf("The average for this year was :%d\n", average);
-		printf("%s has a pass rate of %d and a fail rate of %d",name,PassPer,FailPer);
+		printf("%s has a pass rate of %.0f%% and a fail rate of %.0f%%",name,PassPer,FailPer);
+		delete[] Array;
+		delete[] Array2;
 	}
 	else
 	{
@@ -69,3 +89,4 @@ int main()
 	}
 	exit(0);
 }
+//https://www.geeksforgeeks.org/cpp/bubble-sort-in-cpp/ is the source for where i learnt about the sorting;
