@@ -1,12 +1,14 @@
 #include<stdlib.h>
-#include <stdio.h>
-#include <iostream>
+#include<stdio.h>
+#include<string.h>
 
 int main()
 {
-	char string[20];
+	const int MAX = 20;
+	char string[MAX];	
 	printf("please input your string max characters 20:\n");
-	scanf_s("%s", string,20);
+	fgets(string, MAX, stdin);
+	string[MAX - 1] = '\0';
 	for (int i = 0; i < strlen(string); i++)
 	{
 		if (string[i]>='A'&& string[i]<='Z')
